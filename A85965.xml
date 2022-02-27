@@ -1,0 +1,197 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Exceeding good newes from Beverley, Yorke, Hull, and Newcastle. With the valliant acts of Sir John Hotham over the walls of Hull against the Kings forces, and how he hath taken ten captaines and cavalleres prisoners that were going to Barton in Lincolnshire. And how Sir John Hotham gave command to pull the mayors gowne of Hull off from his backe, and set a guard about his house. As also how Sir Iohn Hotham gave command to burne the houses that stood betwixt the Kings forces and Hull, least any of the Kings forces should shelter themselves, and so to assault the towne.</title>
+            <author>T. G.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85965</idno>
+            <idno type="STC">Wing G63</idno>
+            <idno type="STC">Thomason E107_32</idno>
+            <idno type="STC">ESTC R23127</idno>
+            <idno type="EEBO-CITATION">99871918</idno>
+            <idno type="PROQUEST">99871918</idno>
+            <idno type="VID">124336</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85965)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 124336)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 19:E107[32])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Exceeding good newes from Beverley, Yorke, Hull, and Newcastle. With the valliant acts of Sir John Hotham over the walls of Hull against the Kings forces, and how he hath taken ten captaines and cavalleres prisoners that were going to Barton in Lincolnshire. And how Sir John Hotham gave command to pull the mayors gowne of Hull off from his backe, and set a guard about his house. As also how Sir Iohn Hotham gave command to burne the houses that stood betwixt the Kings forces and Hull, least any of the Kings forces should shelter themselves, and so to assault the towne.</title>
+                  <author>T. G.</author>
+                  <author>Salwey, Humphrey, 1575?-1652.</author>
+                  <author>Wilde, John, 1590-1669.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for I. T.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Iuly 20. 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Two letters, the first signed T. G.; the second by John Wilde and Humphrey Salwey who were the committee deputed to visit Worcestershire.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Hotham, John, --  Sir, d. 1645 Jan. 2.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+               <term>Hull (England) --  History, Military --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:124336:1" rendition="simple:additions"/>
+            <p>EXCEEDING GOOD NEWES FROM <hi>Beverley, Yorke, Hull,</hi> and <hi>Newcaſtle.</hi>
+            </p>
+            <p>With the valliant Acts of Sir <hi>John Hotham</hi> over the walles of <hi>Hull</hi> againſt the Kings forces, and how he hath taken Ten Captaines and Cavalleres pri<g ref="char:EOLhyphen"/>ſoners that were going to <hi>Barton</hi> in <hi>Lincolneſhire.</hi>
+            </p>
+            <p>And how Sir <hi>John Hotham</hi> gave command to pull the Mayors Gowne of <hi>Hull</hi> off from his backe, and ſet a guard about his Houſe.</p>
+            <p>As alſo how Sir <hi>Iohn Hotham</hi> gave command to burne the Houſes that ſtood betwixt the Kings forces and <hi>Hull,</hi> leaſt any of the Kings forces ſhould ſhelter themſelves, and ſo to aſſault the Towne.</p>
+            <p>
+               <hi>London,</hi> Printed for <hi>I. T. Iuly</hi> 20. <hi>1642.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="dispatch">
+            <pb facs="tcp:124336:2"/>
+            <opener>
+               <dateline>From Beverley neere Hull <date>Saterday the Sixteenth of <hi>Iuly</hi> 1642.</date>
+               </dateline>
+            </opener>
+            <opener>
+               <salute>Noble Sir,</salute>
+            </opener>
+            <p>AFter the tender of my ſervice, I recommend unto you an Abſtract of ſuch occurrances as hath paſſed in theſe parts, during his Maje<g ref="char:EOLhyphen"/>ſties Blocking or beſeiging of the Towne of <hi>Hull,</hi> wherein you ſhall be informed of nothing but the truth: alſo I ſhall give you a ſhort narration of ſome perticulars from <hi>Yorke</hi> this laſt weeke.</p>
+            <p>Saterday being the ninth of <hi>Iuly,</hi> Divers Cap<g ref="char:EOLhyphen"/>taines and other officers being Rebells in <hi>Ireland,</hi> and lately taken by ſome <hi>Scotiſh</hi> forces there under the Command of Colonell <hi>Montroe</hi> was ſent over into England, and conveyed from Sheriffe to She<g ref="char:EOLhyphen"/>riffe, and ſo brought to the King at <hi>Yorke,</hi> This day was they ſent for by his Maieſtie, who beg'd for pardon, but the King would not grant it, but pre<g ref="char:EOLhyphen"/>ſently gave command they ſhould bee ſent to the Parliament. The Dutches of <hi>Buckingham</hi> alſo is at this preſent in <hi>Yorke,</hi> to begge pardon for her Hus<g ref="char:EOLhyphen"/>band the Earle of <hi>Antrim</hi> in <hi>Ireland,</hi> taken priſoner likewiſe by the ſaid Colonell <hi>Montroe,</hi> but as yet we heare not how ſhe ſpeedes.</p>
+            <p>This day Sir <hi>Iohn Hotham</hi> ſent to divers inhabi<g ref="char:EOLhyphen"/>tants
+<pb n="3" facs="tcp:124336:2"/>living without the gates of <hi>Hull,</hi> neere unto <hi>Beverley</hi> gate, to depart from their houſes, with their goods, neceſſaries, and houſholdſtuffe, pro<g ref="char:EOLhyphen"/>fering to receive them into the Towne, or elſe to goe to ſuch friends as they had, whereupon their departure, hee burnt ſome of the ſaid houſes, and cauſed others to bee pulled downe, leaſt any of his Maieſties forces (who lies intrenched neere <hi>Hull</hi>) ſhould ſhelter themſelves, and ſo aſſault the Town, it being a Maxime in war (eſpecially in a Beſieged place) to levell and demoliſh all places that may prove Advantagious to an enemy: As alſo to raiſe Batteries, and make ſuch workes as may ſtand for their defence and ſecurity; Some difference this day hath beene betwixt Sir <hi>Iohn Hotham</hi> and the Mayor of <hi>Hull,</hi> who refuſed to aſſiſt him in defence of the Towne, whereupon hee cauſed his Gowne to bee pull'd over his head, and ſet a guard before his doore.</p>
+            <p>The King hath a great ſtrength both of Horſe and Foote, whoſe forces are daily augmented by divers of the Gentry of the County of <hi>Yorke, Lanceſhire, Cumberland, Weſtmerland, Northumberland,</hi> and of many other places, who continually repaire to <hi>Be<g ref="char:EOLhyphen"/>verley,</hi> and ſtrongly entrench themſelves there, they have made two or three workes, and planted ſome peeces of Ordinance upon them, which was taken out of the ſhippe called the <hi>Providence,</hi> which came from <hi>Holland</hi> with Ammunition to the King, and runne aſhore at a Towne called <hi>Paul,</hi> within five or ſixe miles of <hi>Hull,</hi> they have laboured con<g ref="char:EOLhyphen"/>tinually to let out the water our of the m<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ddowes,
+<pb n="4" facs="tcp:124336:3"/>which Sir <hi>Iohn Hotham</hi> drowned, that thereby their approach towards the towne might be more ſecure &amp; acceſſable, but all in vaine, for what was drayned out in the ebbe of the Tyde, was drowned againe at the flowing thereof.</p>
+            <p>Vpon Sunday, <hi>Iuly</hi> the tenth, Sir <hi>Iohn Hotham</hi> ſhot continually into the Kings works, and moſt part of the night, divers great bullets being taken up neere the Trenches, but God be thanked not a man ſlaine.</p>
+            <p>This day nine or tenne Captaines and other Cavalires were taken Priſoners by Sir <hi>Iohn Hotham,</hi> who were going over <hi>Humber</hi> to <hi>Barton</hi> upon the Coaſt of <hi>Lincolneſhir</hi> to animate that County or elſe to force them to aſſiſt the King againſt the Parlia<g ref="char:EOLhyphen"/>ment.</p>
+            <p>This Evening a Troop of Horſe, Commanded by Sir <hi>Thomas Metham,</hi> and of my Lord of <hi>Lindſyes</hi> Re<g ref="char:EOLhyphen"/>giment ſallyed out of their workes towards <hi>Hull,</hi> where, in his march, he cauſed 3, Windmills to be ſet on fire, but firſt turned out the Millers, with their Wives and Children, and after retreated againe to his Quarters.</p>
+            <p>On Munday morning Sir <hi>Iohn</hi> made divers ſhott with great Ordinance out of the Towne, to cleare the coaſt. Captaine <hi>Aſhburneham</hi> is here in the Kings Army, who came over with my Lord <hi>Dig<g ref="char:EOLhyphen"/>by</hi> from <hi>Holland.</hi>
+            </p>
+            <p>This d<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y his Majeſty removed from <hi>Beverley,</hi> to <hi>Doncaſter,</hi> and ſo to <hi>Newarke,</hi> conveyed by a Troope of great Horſe for his Guard, ſet out by the Coun<g ref="char:EOLhyphen"/>ty of <hi>Yorke:</hi> The <hi>Prince</hi> accompanied him, but the Duke of <hi>Yorke</hi> returned backe to <hi>Yorke:</hi> His Majeſty
+<pb n="5" facs="tcp:124336:3"/>hath ſent a Meſſage to the Parliament, for the deli<g ref="char:EOLhyphen"/>vering up of <hi>Hull</hi> unto him, before he proſecute a<g ref="char:EOLhyphen"/>ny further, elſe he ſhall be forced to reduce it to his Obedience, he hath appointed the Parliament to meet him by a Committee at <hi>Beverley</hi> on Fryday laſt, it is thought he will returne to <hi>Yorke</hi> upon Saturday.</p>
+            <p>TUESDAY, Sir <hi>Iohn Hotham,</hi> confined the Major of <hi>Hull</hi> to his houſe, ſetting a ſtrict guard be<g ref="char:EOLhyphen"/>fore his doore. This day, a Petition from <hi>Holder<g ref="char:EOLhyphen"/>neſſe,</hi> was delivered: to the King, Complayning of Sir <hi>Iohn Hothams</hi> inſolencies done to them, which his Majeſtie promiſed to protect againſt.</p>
+            <p>WEDNESDAY, it was generally reported that my Lord <hi>Digby</hi> was gone from the King, to<g ref="char:EOLhyphen"/>wards <hi>Holland</hi> againe, upon what occaſion it is not certainely knowne; but divers reports come from the Court; that the King did not countenance his comming over, but was diſpleaſed greatly with him, the Lords about the King was diſcontented therewith likewiſe.</p>
+            <p>THURSDAY, Newes came to <hi>Beverley,</hi> that two great Demy Cannons and one whole Can<g ref="char:EOLhyphen"/>non was planted at <hi>Barton</hi> upon <hi>Humber,</hi> by my Lord of <hi>Lindſe<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>es</hi> direction.</p>
+            <p>This day came divers graat horſe to <hi>BEVERLEY</hi> from the Weſt-riding of the County: my Lord of <hi>Cumberland</hi> is made Generall, of the Kings Forces; His Majeſties Proclamation was proclaimed in <hi>York</hi> this day, declaring his purpoſe in beſeiging of <hi>Hull,</hi> His Majeſties intention is to Blocke it up, both by Sea, and Land; and to keepe all proviſion from it,
+<pb n="6" facs="tcp:124336:4"/>and ſo ſtarve them out; which by land I am per<g ref="char:EOLhyphen"/>ſwaded he will accompliſh, if not releived by ſhip<g ref="char:EOLhyphen"/>ing at Sea.</p>
+            <p>FRIDAY, a Warrant under his Majeſties Broad Seale, came to <hi>Yorke,</hi> for the erecting of a new <hi>Mynt</hi> there, ſome Commiſſioners appoint<g ref="char:EOLhyphen"/>ed for the ſame, came to veiw the place, where the old <hi>Mynt</hi> ſtood, which is now in Sir <hi>William Saviles</hi> poſſeſſion, neere the <hi>Minſter,</hi> where it appeares mo<g ref="char:EOLhyphen"/>ny was coyned in <hi>Hen.</hi> 8. Raigne.</p>
+            <p>This is all I can impart unto you for the preſent, ſo wiſhing a happy peace betwixt King and Parlia<g ref="char:EOLhyphen"/>ment, that thereby the diſtractions of this King<g ref="char:EOLhyphen"/>dome might be removed; I take my leave and Reſt.</p>
+            <closer>
+               <signed>Yours to Command, T. G.</signed>
+               <dateline>Beverley, <date>Iuly 16. 1642.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="dispatch">
+            <head>To the Honourable, <hi>William Lentall</hi> Eſquier, ſpeaker of the Houſe of Commons in Par<g ref="char:EOLhyphen"/>liament.</head>
+            <opener>
+               <salute>Honorable Sir,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">W</seg>E hold it our duties to tender you this ſhort account of our Iourney in<g ref="char:EOLhyphen"/>to <hi>Worceſterſhire,</hi> which fell out to be very neceſſary and ſeaſonable, for we found by the way, and after our arri<g ref="char:EOLhyphen"/>vall here at <hi>Worceſter</hi> upon Munday night laſt (being
+<pb n="7" facs="tcp:124336:4"/>the night before the Quarter Seſſions) that great preparation had beene made for the Execution of the Commiſſion of Array on this day, and great diſtempers raiſed in the Countie, by the violent: proſecution of Maſter <hi>Sherrington Talbott</hi> (whoſe high contempts and oppoſitions againſt the Parli<g ref="char:EOLhyphen"/>ament ſhall be more particularly repreſented to you hereafter) giving us iuſt cauſe to beleeve that there was a deſigne, hope, and probability, (with refe<g ref="char:EOLhyphen"/>rence to other parts adioyning) to have made this Countrey a place of warre; But (bleſſed be God) our coming downe by the Command of the Hono<g ref="char:EOLhyphen"/>rable Houſe whereof we are unworthy Members, hath wrought (we hope ſo effectually that the Com<g ref="char:EOLhyphen"/>miſsion of Array was this day quite deſerted by the whole Countie; The Declarations of the Parlia<g ref="char:EOLhyphen"/>ment moſt joyfully, and thankefully received, and the mindes of the People (which before were by miſ-reports, and publications of matters from <hi>Yorke</hi> full of anxietie and trouble) are now (we beleeve) fully ſetled, as may appeare by this incloſed Petiti<g ref="char:EOLhyphen"/>on, which in a very full, and great Aſſembly as ever wee ſaw at any Aſsizes, or Seſsions, was by the Grand jury preſented to us, and the reſt of the Iu<g ref="char:EOLhyphen"/>ſtices with a great acclamation of the company then preſent, and further intimations of ten Thou<g ref="char:EOLhyphen"/>ſand hands more to have beene added to it, if time would have permitted.</p>
+            <p>Meane while Maſter <hi>Sherrington Talbott</hi> having the night before at his houſe peremtorily refuſed to obey the arreſt of the Meſſenger, as the meſſenger can teſtifie, with other his ſpeeches and actions, and
+<pb n="8" facs="tcp:124336:5"/>comming hither to this Citie in a daring manner to have executed the Commiſsion (finding his hopes faile, and his apprehenſion like to follow) ſecretly fled away, and as we heare is gone a<g ref="char:EOLhyphen"/>gaine towardes <hi>Yorke,</hi> with menaces in his mouth, leaving the Lord <hi>Dudley</hi> (one of the chief Commiſ<g ref="char:EOLhyphen"/>ſioners) to mannag the worke, who being not ſecon<g ref="char:EOLhyphen"/>ded by the Commiſſioners whom he expected (or any other) the ſame day quitted the place, leaving the City and County (thanks be to God) in good peace and quietneſſe, wherein we hope by Gods bleſſing it will continue faithfull, and firme to the King and Parliament; and of other paſſages we ſhall be ready to give the Houſe a more particular ac<g ref="char:EOLhyphen"/>count at our returne, which we intend (God will<g ref="char:EOLhyphen"/>ing) ſhall be very ſpeedily. Meane while and ever with our due reſpects and beſt ſervice preſented to you, we take our leave, and reſt.</p>
+            <closer>
+               <signed>Your moſt humble, and affectionate ſervants,
+<list>
+                     <item>Iohn Wilde:</item>
+                     <item>Humphrey Salwey.</item>
+                  </list> 
+               </signed>
+               <dateline>
+                  <date>Wedneſday, 13. Iulii, 1642.</date>
+               </dateline>
+               <signed>H. Elſynge, Cler. Parl. D. Com.</signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
